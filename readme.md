@@ -9,4 +9,4 @@
   8. currency: should be any of given [‘JOD’, ‘USD’, ‘GBP'] 
 
 2) How to run:
-  python3 validate.py transaction.json 
+  `python3 validate.py transaction.json`
